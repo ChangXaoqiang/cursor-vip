@@ -24,7 +24,7 @@ bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/
 # MaxOS/Linux
 sudo mv cursor-vip_xx_xxx /usr/local/bin/cursor-vip;
 chmod +x /usr/local/bin/cursor-vip;
-cursor-vip githubReadme;
+cursor-vip 95ac60ab34e1bebe892ff996a6ce9440;
 # Windows
 # 双击 cursor-vip_xx_xxx.exe
 ```
