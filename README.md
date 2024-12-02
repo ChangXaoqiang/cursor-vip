@@ -8,15 +8,15 @@
 ### Usage
 
 Open the terminal on MacOS/Linux; Open Git Bash on Windows. Then execute the following command to install:
->some computers may report false positives, need to close the antivirus software/computer housekeeper/security protection and then proceed
+>some computers may report false positives, need to close the antivirus software/computer housekeeper/security protection 和 then proceed
 
 Method 1: Install via GitHub script
 ```bash
-bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) githubReadme
+bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) 95ac60ab34e1bebe892ff996a6ce9440
 ```
 Method 2: Install via ghp.ci proxy script
 ```bash
-bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/download/latest/install.sh) githubReadme
+bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/download/latest/install.sh) 95ac60ab34e1bebe892ff996a6ce9440
 ```
 Method 3: Manually download the binary file
 > download the binary file for the corresponding operating system from the [release](https://github.com/kingparks/cursor-vip/releases) page
@@ -50,21 +50,5 @@ Strong proxy mode For the first time after starting, you need to install the tru
 -->
 
 Enjoy cursor-vip:
-* Open the CURSOR code editor, click the settings icon in the upper right corner, and you can see that you are already a VIP account.
-* Enjoy code prompts and chat functions.
-
----
-### Promotion Guide
-By promoting cursor-vip, you can automatically get up to an unlimited amount of free usage time, and the other party can also get 15 days of free (self-registration for 7 days), you can refer to the following methods:
-1. After cloning this repository, replace `githubReadme` in the `README` with your DeviceID.
-2. Post articles on platforms such as SegmentFault/Stack Overflow/GitHub Discussions/Reddit/Dev.to/Hacker News/DZone/V2EX/Quora/WeChat Official Account/Zhihu/Bilibili/CSDN/, promoting the use of cursor pro in this way, and attach your own promotional installation command or cloned github address.
-3. Comment under cursor related articles or videos, for example: "Cooperate with Github's [Your Github Name]/cursor-vip for low-priced or freelancing Pro"
----
-### Star History
-<a href="https://star-history.com/#kingparks/cursor-vip&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kingparks/cursor-vip&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kingparks/cursor-vip&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kingparks/cursor-vip&type=Date" />
- </picture>
-</a>
+* Open the CURSOR code editor, click the settings icon in the upper right corner, 和 you can see that you are already a VIP account.
+* Enjoy code prompts 和 chat functions.
