@@ -2,8 +2,7 @@
 
 > 🌐️ 中文 | [English](README.md)
 
-`cursor-vip` 是一个用于 CURSOR 智能代码编辑器 无需账号登录即可享受VIP智能提示的工具服务。并且，它支持国外多个著名的AI模型。
-
+`cursor-vip` 是一个用于 CURSOR 智能代码编辑器 无需账号登录即可享受VIP智能提示的工具服务。
 
 ### 使用方式
 
