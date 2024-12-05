@@ -9,11 +9,11 @@
 在 MacOS/Linux 中，请打开终端；在 Windows 中，请打开 Git Bash。然后执行以下命令来安装：
 > 部分电脑可能会误报毒，需要关闭杀毒软件/电脑管家/安全防护再进行
 
-方式1：通过 ghp.ci 代理脚本
+方式1：通过 ghp.ci 代理脚本（Mac可用此方法，Windows电脑安装了git for windows后也可执行此命令安装）
 ```bash
 bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) 95ac60ab34e1bebe892ff996a6ce9440
 ```
-方式2：通过 GitHub 脚本
+方式2：通过 GitHub 脚本（Mac可用，Windows执行此命令好像会报错）
 ```bash
 bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/download/latest/install.sh) 95ac60ab34e1bebe892ff996a6ce9440
 ```
